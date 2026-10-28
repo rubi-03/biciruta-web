@@ -1,4 +1,4 @@
-   .vscode/
-   *.log
-   .DS_Store
-   Thumbs.dbs
+.vscode/
+*.log
+.DS_Store
+Thumbs.dbs
