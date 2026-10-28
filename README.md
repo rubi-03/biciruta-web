@@ -23,3 +23,4 @@ biciruta-web/
 ## Novedades
 
 - Próximamente: sección de ofertas semanales.
+   Repositorio publicado en GitHub.
