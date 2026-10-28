@@ -19,3 +19,7 @@ biciruta-web/
 1.  Abrir la carpeta `biciruta-web` en VS Code.
 2.  Abrir `index.html`.
 3.  Pulsar **Go Live** (extensión Live Server).
+
+## Novedades
+
+- Próximamente: sección de ofertas semanales.
